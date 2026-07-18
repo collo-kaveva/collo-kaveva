@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Collins Kaveva
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Scientist;Certified+Penetration+Tester;Cybersecurity+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Scientist;Jounior+Penetration+Tester;Cybersecurity+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff"/>
 
@@ -15,13 +15,15 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-🎓 Computer Science Student
+🎓 Computer Science Undergraduate
 
-🔐 Certified Penetration Tester
+🔐 Jounior Penetration Tester
 
 🌱 Currently learning
 
 - Cloud Security
+- Frontend development
+- Networking Fundamentals
 - AI & Machine Learning
 - DevOps
 - Backend Engineering
@@ -35,13 +37,14 @@
 💬 Ask me about
 
 - Python
+- Software Development
 - Linux
 - Ethical Hacking
 - Networking
 
 ⚡ Fun Fact
 
-> I enjoy breaking systems... legally 😄
+> I enjoy breaking systems... legally ofcourse 😄
 
 ---
 
