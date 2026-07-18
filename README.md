@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Collins Kaveva
 
-### 💻 Computer Science Student | 🔐 Certified Penetration Tester | 🚀 Tech Enthusiast
+### 💻 Computer Sciencetist | 🔐 Certified Penetration Tester | 🚀 Tech Enthusiast
 
 I'm passionate about technology, software development, and cybersecurity. I enjoy building projects, learning new technologies, and collaborating with other developers to create impactful solutions.
 
