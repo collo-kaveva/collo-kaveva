@@ -1,30 +1,33 @@
 <!-- ================================================= -->
-<!-- ================  HEADER  ======================= -->
+<!--                     HEADER                         -->
 <!-- ================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Collins%20Kaveva&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=36&desc=Breaking%20Systems%20(Legally)%20%7C%20Building%20Better%20Ones&descAlignY=56&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00FF41&height=210&section=header&text=COLLINS%20KAVEVA&fontSize=45&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Junior%20Penetration%20Tester%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=17&descColor=00F7FF"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=850&lines=root%40kaveva%3A~%23+whoami;Computer+Scientist;Junior+Penetration+Tester;Cybersecurity+Enthusiast;Full+Stack+Developer;sudo+access+granted+%E2%9C%93" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=750&lines=root%40kaveva%3A~%23+whoami;Computer+Science+Undergraduate;Ethical+Hacker+%7C+Blue+%2F+Red+Team+Learner;Securing+Systems%2C+One+Exploit+at+a+Time;Building+Full-Stack+Apps+by+Day...;...Breaking+Them+(Legally)+by+Night;sudo+access+granted+✓"/>
 
-<br/>
+<br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=linux&logoColor=black&labelColor=0f0f0f"/>
-<img src="https://img.shields.io/badge/ACCESS-GRANTED-00F7FF?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0f0f0f"/>
-<img src="https://img.shields.io/badge/MODE-ETHICAL__HACKER-FF00FF?style=for-the-badge&logo=protonvpn&logoColor=black&labelColor=0f0f0f"/>
-<img src="https://img.shields.io/badge/LOCATION-Kenya-FFD700?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0f0f0f"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/ROLE-Junior%20Pentester-00F7FF?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/LOCATION-Kenya-FFD700?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0a0a0a"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://raw.githubusercontent.com/RENANE22/RENANE22/output/martix.gif" width="100%"/>
+<img src="https://img.shields.io/github/followers/collo-kaveva?label=Followers&style=for-the-badge&color=00FF41&labelColor=0a0a0a"/>
 
-<br/>
+<img src="https://img.shields.io/github/stars/collo-kaveva?label=Stars&style=for-the-badge&color=00F7FF&labelColor=0a0a0a"/>
 
-<img src="https://komarev.com/ghpvc/?username=collo-kaveva&label=TERMINAL+SESSIONS&color=00FF41&style=for-the-badge&labelColor=0f0f0f"/>
+<img src="https://komarev.com/ghpvc/?username=collo-kaveva&label=Visitors&style=for-the-badge&color=FF00FF&labelColor=0a0a0a"/>
 
 </div>
 
-<br/>
+---
+
+## 💫 About Me
 
 <!-- ================================================= -->
 <!-- =====================  NAV  ====================== -->
@@ -192,24 +195,45 @@
 <!-- ================================================= -->
 <!-- ===================  PROJECTS  ==================== -->
 <!-- ================================================= -->
-## 💻 `ls -la /projects`
+## 💻 `ls -la ~/projects`
 
-<br/>
+```bash
+$ tree ~/projects
 
-> Replace the placeholders below with your real repositories — GitHub will auto-populate stars, forks, and language once linked.
+📂 Broadcast-Media-Management-System
+│── 📺 Media scheduling platform
+│── 💻 PHP • MySQL • Bootstrap
 
-<br/>
+```
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+
+```
+📂 Streetz-Wear
+│── 🛒 E-commerce website
+│── ⚛️ React • Node.js • MongoDB
+```
+<img src="https://img.shields.io/badge/React-4479A1?style=flat-square&logo=mysql"/>
+
+```
+📂 Project-Culture
+│── 🌍 Cultural heritage platform
+│── 🌐 HTML • CSS • JavaScript
+```
+<img src="https://img.shields.io/badge/Javascript-7952B3?style=flat-square&logo=bootstrap"/>
+
+```
+📂 Tic-Tac-Toe
+│── 🎮 Browser game
+│── 📜 HTML • CSS • JavaScript
+```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=collo-kaveva&repo=REPLACE_WITH_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00F7FF&border_radius=10"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=collo-kaveva&repo=REPLACE_WITH_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00F7FF&border_radius=10"/>
+<!-- Project cards here -->
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=collo-kaveva&repo=REPLACE_WITH_REPO_3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00F7FF&border_radius=10"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=collo-kaveva&repo=REPLACE_WITH_REPO_4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00F7FF&border_radius=10"/>
-
+</div>
 </div>
 
 <br/><br/>
@@ -221,29 +245,22 @@
 <!-- ================================================= -->
 <!-- ================  CERTIFICATIONS  ================= -->
 <!-- ================================================= -->
-## 🎓 `cat certifications.json`
+## 🎓 `cat certifications.txt`
 
-<br/>
+```bash
+┌──(root㉿kaveva)-[~/certifications]
+└─$ ls -la
 
-```json
-{
-  "certifications": [
-    {
-      "name": "REPLACE_WITH_CERT_NAME",
-      "issuer": "REPLACE_WITH_ISSUER",
-      "year": "20XX",
-      "status": "verified ✅"
-    },
-    {
-      "name": "REPLACE_WITH_CERT_NAME",
-      "issuer": "REPLACE_WITH_ISSUER",
-      "year": "20XX",
-      "status": "in progress ⏳"
-    }
-  ]
-}
+✔ Penetration Tester
+   ├── Issuer : Hack The Box
+   ├── Year   : 2025
+   └── Status : VERIFIED
+
+✔ Full Stack Developer
+   ├── Issuer : Power Learn Project Africa
+   ├── Year   : 2024
+   └── Status : VERIFIED
 ```
-
 <br/><br/>
 
 ---
