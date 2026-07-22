@@ -212,7 +212,7 @@ $ tree ~/projects
 ```
 📂 Streetz-Wear
 │── 🛒 E-commerce website
-│── ⚛️ React • Node.js • MongoDB
+│── ⚛️ React • Node.js • MongoDB.
 ```
 <img src="https://img.shields.io/badge/React-4479A1?style=flat-square&logo=mysql"/>
 
