@@ -125,7 +125,7 @@
 
 <br/><br/>
 
-### 🌐 Web Development
+### 🌐 Web Dev
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express&theme=dark"/>
 
 <br/><br/>
@@ -147,7 +147,7 @@
 
 <br/><br/>
 
-### 📈 Proficiency Levels
+### 📈 Proficiency Level
 
 <p align="center">
   <img src="https://progress-bar.xyz/85/?title=Python&width=280&color=00FF41&suffix=%25"/>
