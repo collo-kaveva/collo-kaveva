@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00FF41&height=210&section=header&text=COLLINS%20KAVEVA&fontSize=45&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Junior%20Penetration%20Tester%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=17&descColor=00F7FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00FF41&height=210&section=header&text=COLLINS%20KAVEVA&fontSize=45&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Junior%20Penetration%20Tester%20%7C%20Cybersecurity%20Expert&descAlignY=55&descSize=17&descColor=00F7FF"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=750&lines=root%40kaveva%3A~%23+whoami;Computer+Science+Undergraduate;Ethical+Hacker+%7C+Blue+%2F+Red+Team+Learner;Securing+Systems%2C+One+Exploit+at+a+Time;Building+Full-Stack+Apps+by+Day...;...Breaking+Them+(Legally)+by+Night;sudo+access+granted+✓"/>
 
