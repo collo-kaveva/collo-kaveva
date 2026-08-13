@@ -66,7 +66,7 @@
 
 [+] Computer Science Undergraduate
 [+] Junior Penetration Tester
-[+] Cybersecurity Enthusiast
+[+] Cybersecurity Expert
 [+] Always compiling new knowledge...
 
 [*] Currently learning:
