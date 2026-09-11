@@ -299,20 +299,6 @@ $ tree ~/projects
 
 <br/>
 
-<!-- ================================================= -->
-<!-- ==================  TROPHIES  ===================== -->
-<!-- ================================================= -->
-## 🏆 `sudo unlock --achievements`
-
-<br/>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=collo-kaveva&theme=algolia&column=4&margin-w=15&margin-h=15&no-bg=true"/>
-</p>
-
-<br/><br/>
-
----
 
 <br/>
 
