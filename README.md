@@ -147,7 +147,7 @@
 
 <br/><br/>
 
-### 📈 Proficiency 
+### 📈 Proficiency level
 
 <p align="center">
   <img src="https://progress-bar.xyz/85/?title=Python&width=280&color=00FF41&suffix=%25"/>
