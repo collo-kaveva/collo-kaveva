@@ -390,7 +390,7 @@ connect to [collo-kaveva] from remote host — establishing secure channel 🔒
 
 <br/>
 
-⭐ **If you like my work, consider starring my repositories!**
+⭐ **If you like my work, consider starring my repositories!*
 
 <br/>
 
