@@ -100,7 +100,7 @@
 
 "Every vulnerability is a lesson.
  Every exploit is understanding.
- Every fix is growth."
+ Every fix is a growth."
 ```
 
 <br clear="right"/>
