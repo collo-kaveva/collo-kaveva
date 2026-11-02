@@ -89,7 +89,7 @@
     ├── Ethical Hacking
     └── Networking
 
-[!] Fun fact: I enjoy breaking systems... legally, of course 😄
+[!] Fun fact: I enjoy breaking systems... legally, of course 
 ```
 
 <br/>
